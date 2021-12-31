@@ -4,8 +4,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-abbasi-alaei-8b12781b3/)
   
-![](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 📈 **My GitHub Stats:**
 
 <p>
